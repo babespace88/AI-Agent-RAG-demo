@@ -15,8 +15,12 @@ cant install on bash please use ai help ollama : https://docs.ollama.com/quickst
 
 3. create new file in python named chat.py
 
-4. run ollama run gemma3
+4. ollama pull gemma3:1b 
+   
+5. run ollama run gemma3
 
-5. chat it on terminal
+6. to stop or delete ollama : pkill ollama
+
+7. chat it on terminal
    
 
